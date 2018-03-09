@@ -1,3 +1,23 @@
+# Simple laravel blog.
+### Includes
+Morph, Many-to-Many relationships
+WhichBrowser
+
+### Installation
+`git clone https://github.com/Owi4k/Simple-laravel-blog.git`
+
+`Simple-laravel-blog`
+
+`composer install`
+
+change `.env file` 
+`php artisan migrate`
+
+then
+`php artisan serve`
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
